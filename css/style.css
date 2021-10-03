@@ -6,7 +6,7 @@ body,*{
     padding: 0;
 }
 #main{
-    max-width: 1990px;
+    max-width: 199px;
     /* height: 80vh; */
     display: flex;
     justify-content: center;
